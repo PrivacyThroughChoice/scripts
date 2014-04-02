@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dirs="thunr_chef_repo roles/* cookbooks/*"
+dirs="chef_repo roles/* cookbooks/*"
 
 for dir in $dirs; do
   echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
